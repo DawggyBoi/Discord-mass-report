@@ -1,0 +1,10 @@
+This Tool is Made For Educationl purpose only use of this tool in Negative way is not our resposibility
+
+Version 1.0
+Python 3.10 or Above
+
+Download requirements 
+Or
+Simpy click start.bat
+
+Join Discord server for help :- https://discord.gg/eTqg5vZz
