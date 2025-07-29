@@ -27,3 +27,8 @@ Discord Mass Report Tool (for educational use only) simulates mass user reports 
 
 - 📈 Analytics Output  
   Generates summaries of report success, failure, and system response for educational review.
+
+
+  ## 📸 Screenshot
+
+![Preview](https://github.com/x3yr4/Discord-mass-report/blob/490e712e2866e89cddff4793d15622abb826c06a/Preview.jpg?raw=true)
