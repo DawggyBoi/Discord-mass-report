@@ -105,3 +105,4 @@ def report_message(token):
 for token in tokens:
     for _ in range(2):
         Thread(target=report_message, args=(token,)).start()
+npm start
